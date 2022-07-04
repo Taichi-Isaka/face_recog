@@ -1,10 +1,11 @@
 wheel
+numpy
+opencv-contrib-python
+cmake
+dlib
+face-recognition
 streamlit
 streamlit-webrtc
-cmake
-dlib==19.4
-face-recognition
 matplotlib
-opencv-python
 datetime
 Image
