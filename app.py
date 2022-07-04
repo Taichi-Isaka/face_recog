@@ -1,5 +1,5 @@
 import streamlit as st
-#from streamlit_webrtc import webrtc_streamer
+from streamlit_webrtc import webrtc_streamer
 import face_recognition
 import matplotlib.pyplot as plt
 import cv2

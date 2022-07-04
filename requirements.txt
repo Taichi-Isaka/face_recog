@@ -1,4 +1,5 @@
 streamlit
+streamlit-webrtc
 face_recognition
 matplotlib
-opencv-python
+opencv-python-headless
