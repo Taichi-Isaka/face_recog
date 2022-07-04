@@ -4,6 +4,7 @@ streamlit==1.2.0
 streamlit-webrtc==0.35.1
 cmake==3.14.4
 dlib==19.7
+face_recognition_models
 face_recognition
 datetime
 Image
