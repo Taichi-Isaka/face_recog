@@ -10,4 +10,4 @@
      - pip:
        - datetime
        - Image
-       - streamlit-webrtc==0.34.2
+       - webrtc_streamer
