@@ -3,14 +3,4 @@ channels:
   - conda-forge
 dependencies:
   - streamlit >= 0.73
-  - pip
-  - pip:
-    - pynvim
-    - opencv-python-headless==4.5.4.60
-    - streamlit==1.2.0
-    - streamlit-webrtc==0.35.1
-    - cmake
-    - face-recognition
-    - datetime
-    - Image
   - dlib
