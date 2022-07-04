@@ -6,3 +6,7 @@
      - opencv
      - face_recognition
      - streamlit
+     - pip:
+       - datetime
+       - Image
+       - streamlit-webrtc
