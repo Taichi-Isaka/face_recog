@@ -6,6 +6,3 @@
      - opencv
      - face_recognition
      - streamlit
-     - streamlit-webrtc
-     - datetime
-     - Image
