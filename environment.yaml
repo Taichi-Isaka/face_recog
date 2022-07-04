@@ -10,4 +10,3 @@
      - pip:
        - datetime
        - Image
-       - webrtc_streamer
