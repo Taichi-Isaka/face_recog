@@ -3,7 +3,7 @@ numpy
 opencv-contrib-python
 cmake
 dlib
-face_recognition
+face-recognition
 streamlit
 streamlit-webrtc
 matplotlib
