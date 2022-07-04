@@ -5,3 +5,5 @@ dlib
 face-recognition
 matplotlib
 opencv-python
+datetime
+Image
