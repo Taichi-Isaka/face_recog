@@ -2,14 +2,11 @@
      - conda-forge
  dependencies:
      - cmake
-     - dlib
+     - dlib==19.4
      - face_recognition
      - numpy
      - opencv
      - streamlit
-     - pip==22.1.2
-     - pip:
-       - wheel
-       - datetime
-       - Image
-       
+     - wheel
+     - datetime
+     - Image
