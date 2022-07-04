@@ -3,7 +3,7 @@ opencv-python-headless==4.5.4.60
 streamlit==1.2.0
 streamlit-webrtc==0.35.1
 cmake==3.21.1
-dlib==19.4
+dlib==18.17.100
 face-recognition
 datetime
 Image
