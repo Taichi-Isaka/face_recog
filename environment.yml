@@ -3,7 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - streamlit >= 0.73
-  - dlib
   - pip
   - pip:
     - pynvim
@@ -14,3 +13,4 @@ dependencies:
     - face-recognition
     - datetime
     - Image
+  - dlib
