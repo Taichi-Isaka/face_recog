@@ -3,12 +3,13 @@
  dependencies:
      - cmake
      - dlib
-     - face-recognition
      - numpy
      - opencv
      - streamlit
      - pip
      - pip:
+       - wheel
+       - face_recognition
        - datetime
        - Image
        
