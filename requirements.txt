@@ -1,0 +1,8 @@
+streamlit
+numpy
+face_recognition
+matplotlib
+cv2
+os
+datetime
+PIL
