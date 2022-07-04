@@ -6,8 +6,8 @@
      - opencv
      - face_recognition
      - streamlit
-     - streamlit-webrtc
      - pip
      - pip:
        - datetime
        - Image
+       - streamlit-webrtc==0.34.2
