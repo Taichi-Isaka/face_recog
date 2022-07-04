@@ -1,3 +1,4 @@
+wheel
 streamlit
 streamlit-webrtc
 cmake
