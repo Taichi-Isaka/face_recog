@@ -1,0 +1,13 @@
+ channels:
+     - conda-forge
+ dependencies:
+     - dlib
+     - numpy
+     - opencv
+     - face_recognition
+     - streamlit
+     - pip
+     - pip:
+       - datetime
+       - Image
+       - streamlit-webrtc
