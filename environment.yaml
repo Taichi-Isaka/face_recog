@@ -1,7 +1,9 @@
  channels:
      - conda-forge
  dependencies:
+     - cmake
      - dlib
+     - face_recognition
      - numpy
      - opencv
      - streamlit
@@ -9,5 +11,4 @@
      - pip:
        - datetime
        - Image
-       - cmake
-       - face_recognition
+       
