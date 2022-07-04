@@ -1,9 +1,0 @@
-wheel
-opencv-python-headless
-streamlit
-streamlit-webrtc
-cmake
-dlib-bin
-face_recognition
-datetime
-Image
