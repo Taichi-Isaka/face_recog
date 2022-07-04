@@ -1,8 +1,0 @@
-opencv-python-headless==4.5.4.60
-streamlit==1.2.0
-streamlit-webrtc==0.35.1
-cmake
-dlib== 19.4
-face-recognition
-datetime
-Image
