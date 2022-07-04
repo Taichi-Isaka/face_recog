@@ -9,4 +9,5 @@
      - pip:
        - datetime
        - Image
+       - cmake
        - face_recognition
