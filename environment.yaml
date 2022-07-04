@@ -4,9 +4,9 @@
      - dlib
      - numpy
      - opencv
-     - face_recognition
      - streamlit
      - pip
      - pip:
        - datetime
        - Image
+       - face_recognition
