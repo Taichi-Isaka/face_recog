@@ -1,7 +1,7 @@
 streamlit
 streamlit-webrtc
 cmake
-dlib
+dlib==19.4
 face-recognition
 matplotlib
 opencv-python
