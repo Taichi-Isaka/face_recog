@@ -1,4 +1,5 @@
 cmake
+dlib-bin
 face_recognition
 datetime
 Image
