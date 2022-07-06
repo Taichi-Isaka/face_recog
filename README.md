@@ -1,12 +1,12 @@
 # face_recognition app
 
 ### インストール
-pip install cmake
-pip install dlib
-pip install face-recognition
-pip install numpy
-pip install opencv-python
-pip install streamlit
+pip install cmake  
+pip install dlib  
+pip install face-recognition  
+pip install numpy  
+pip install opencv-python  
+pip install streamlit  
 
 windowsでcmakeを使うには, visual studioが必要
 https://visualstudio.microsoft.com/ja/downloads/
