@@ -20,4 +20,4 @@ streamlit run fare_recog.pyを実行
 ### 使い方
 名前を入力して, 登録する.
 登録した顔があると名前が表示される. 
-attend.csvにログが記録
+log.csvにログが記録
