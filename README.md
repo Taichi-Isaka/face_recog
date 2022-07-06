@@ -17,5 +17,5 @@ https://visualstudio.microsoft.com/ja/downloads/
 face_recog.pyがあるフォルダに移動して, 
 streamlit run fare_recog.pyを実行
 
-#使い方
+# 使い方
 名前を入力して, 登録した顔を認識する. 
