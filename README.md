@@ -8,10 +8,11 @@ pip install numpy
 pip install opencv-python  
 pip install streamlit  
 
-windowsでcmakeを使うには, visual studioが必要
+windowsでdlibを使うには, visual studioが必要
 https://visualstudio.microsoft.com/ja/downloads/
 
 のインストーラーからC++によるデスクトップ開発を選択して, Winsows用C++CMakeツールにチェックしてインストール
+![vs](https://user-images.githubusercontent.com/102122652/177480176-a6390780-28c4-4571-9043-48202d367528.png)
 
 ### 実行
 face_recog.pyがあるフォルダに移動して, 
